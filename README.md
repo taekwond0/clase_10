@@ -79,7 +79,7 @@ El color significa las filas de los competidores, y los cinturones van desde cin
  
 9. Empeineras 
 
-![image](https://github.com/taekwond0/clase_10/assets/119891004/5bce7dc9-c71f-433b-9b44-b04f088da28d)
+![image](https://github.com/taekwond0/clase_10/assets/119891004/d53f9bac-cae3-4638-968f-689d43e892e4)
 
 
 # La cancha 
