@@ -20,7 +20,7 @@ Categorías de peleas:
 
 <img width="705" alt="Captura de Pantalla 2023-05-23 a la(s) 3 27 56 p  m" src="https://github.com/taekwond0/clase_10/assets/127857911/9525b090-913e-47ed-bf21-b7d4a8fac14f">
 
-clasificados directamente:
+Clasificados directamente:
 
 <img width="703" alt="Captura de Pantalla 2023-05-23 a la(s) 3 34 18 p  m" src="https://github.com/taekwond0/clase_10/assets/127857911/0ac05f49-114e-4808-be10-30ed59fbd79d">
 
@@ -54,5 +54,15 @@ clasificados directamente:
 9. Empeineras 
 
 
+# La cancha 
+
 ![image](https://github.com/taekwond0/clase_10/assets/119891004/8c4713ef-af82-435f-9bc3-1e83d4b06347)
+
+
 ![image](https://github.com/taekwond0/clase_10/assets/119891004/a499f738-6b66-4d26-9d9a-998a9ce8c1c1)
+
+# Bibliografía 
+
+https://www.santiago2023.org/descargas/es/Taekwondo.pdf 
+
+https://soloartesmarciales.com/blogs/news/reglas-del-taekwondo-segun-la-wtf 
