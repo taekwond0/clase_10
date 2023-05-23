@@ -56,6 +56,7 @@ Los concursantes deben usar un dobok o un uniforme blanco de competencia
 # Cinturones: 
 Los atletas de Taekwondo también se atan un cinturón de color alrededor de la cintura
 El color significa las filas de los competidores, y los cinturones van desde cinturones blancos a cinturones negros.
+
 ![image](https://github.com/taekwond0/clase_10/assets/119891004/cbf28a4c-6be1-4914-bc5c-4d9e91ded101)
 
 # Proteccciones: 
