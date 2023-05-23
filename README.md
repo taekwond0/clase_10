@@ -97,3 +97,5 @@ Disposición personas en combate dentro de la cancha
 https://www.santiago2023.org/descargas/es/Taekwondo.pdf 
 
 https://soloartesmarciales.com/blogs/news/reglas-del-taekwondo-segun-la-wtf 
+
+https://olympics.com/en/news/know-your-sport-taekwondo-rules-scoring-equipment
