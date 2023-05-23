@@ -16,6 +16,15 @@ Entrenadores:
 ▪ Hombres: Máximo 2 por equipo varonil 
 ▪ Mujeres: Máximo 2 por equipo femenil
 
+Categorías de peleas: 
+<img width="705" alt="Captura de Pantalla 2023-05-23 a la(s) 3 27 56 p  m" src="https://github.com/taekwond0/clase_10/assets/127857911/9525b090-913e-47ed-bf21-b7d4a8fac14f">
+
+clasificados directamente:
+<img width="703" alt="Captura de Pantalla 2023-05-23 a la(s) 3 34 18 p  m" src="https://github.com/taekwond0/clase_10/assets/127857911/0ac05f49-114e-4808-be10-30ed59fbd79d">
+
+
+
+
 # Reglas: 
 
 # Uniforme:
