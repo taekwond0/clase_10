@@ -30,7 +30,12 @@ Clasificados directamente:
 # Reglas: 
 Duración: Tres rounds de dos minutos cada uno, con un minuto de descanso entre cada round.Si llegara a darse un empate ganaría el primero en hacer un punto.
 
-El combate: 
+- Un punto para el ataque al peto o protector de pecho.
+- Tres puntos por patada válida con giro al cuerpo.
+- Tres puntos por ataque a la cabeza.
+- Cuatro puntos por patada válida con giro a la cabeza.
+
+# El combate: 
 1. Los competidores serán llamados tres veces minutos antes de su combate donde serán evaluados para ver si están aptos para competir.
 
 2. El árbitro llamará al tatami o área de combate a los dos competidores, los cuales portarán el color rojo o azul para diferenciarse.
