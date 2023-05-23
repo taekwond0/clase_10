@@ -1,14 +1,14 @@
 # Apuntes: Taekwondo
 
-#Sobre los juegos panamericanos: 
+# Sobre los juegos panamericanos: 
 
-Reglas: 
+# Reglas: 
 
-Uniforme:
+# Uniforme:
 
-Cinturones: 
+# Cinturones: 
 
-Proteccciones: 
+# Proteccciones: 
 
 
 ![image](https://github.com/taekwond0/clase_10/assets/119891004/8c4713ef-af82-435f-9bc3-1e83d4b06347)
