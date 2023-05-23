@@ -7,6 +7,7 @@ Los atletas deberán tener 17 años o más (nacidos después del 1 de enero del 
 Equipo Nacional Miembro de WT / PATU MNA según corresponda
 
 EQUIPOS
+
 Atletas:
 ▪ Hombres: Uno por división de peso Kyorugi (Máximo 4 hombres por equipo)
 ▪ Mujeres: Una por división de peso Kyorugi (Máximo 4 mujeres por equipo)
