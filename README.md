@@ -28,6 +28,19 @@ Clasificados directamente:
 
 
 # Reglas: 
+Duración: Tres rounds de dos minutos cada uno, con un minuto de descanso entre cada round.Si llegara a darse un empate ganaría el primero en hacer un punto.
+
+El combate: 
+1. Los competidores serán llamados tres veces minutos antes de su combate donde serán evaluados para ver si están aptos para competir.
+
+2. El árbitro llamará al tatami o área de combate a los dos competidores, los cuales portarán el color rojo o azul para diferenciarse.
+
+3. Una vez posicionados en su área de combate, deben mostrar respeto por su oponente así como por el árbitro, saludando cuando el árbitro lo señale.
+
+4. Al finalizar el último round los competidores permanecerán en sus lugares, se quitarán su protector de cabeza y ofrecerán un saludo a su oponente cuando el árbitro lo indique con Cha-ryeot y Kyeong-rye.
+
+5. Mientras esperan de pie la declaración del árbitro para conocer al ganador, que se designa por la sumatoria de los puntos realizados.
+
 
 # Uniforme:
 
@@ -60,6 +73,7 @@ Dimensiones
 
 ![image](https://github.com/taekwond0/clase_10/assets/119891004/8c4713ef-af82-435f-9bc3-1e83d4b06347)
 
+Disposición personas en combate dentro de la cancha
 
 ![image](https://github.com/taekwond0/clase_10/assets/119891004/a499f738-6b66-4d26-9d9a-998a9ce8c1c1)
 
