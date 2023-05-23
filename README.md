@@ -56,6 +56,8 @@ Clasificados directamente:
 
 # La cancha 
 
+Dimensiones
+
 ![image](https://github.com/taekwond0/clase_10/assets/119891004/8c4713ef-af82-435f-9bc3-1e83d4b06347)
 
 
