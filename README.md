@@ -1,1 +1,2 @@
-# clase_10
+# Apuntes: Taekwondo
+
