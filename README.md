@@ -1,6 +1,6 @@
 # Apuntes: Taekwondo
 
-Sobre los juegos panamericanos: 
+#Sobre los juegos panamericanos: 
 
 Reglas: 
 
